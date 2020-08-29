@@ -1,6 +1,9 @@
 [submodule "LDAPAuthorization"]
 	path = LDAPAuthorization
 	url = git@github.com:mwstake/mediawiki-extensions-LDAPAuthorization
+[submodule "LDAPAuthorization"]
+	path = LDAPAuthorization
+	url = git@github.com:mwstake/mediawiki-extensions-LDAPAuthorization
 [submodule "LDAPAuthentication"]
 	path = LDAPAuthentication
 	url = git@github.com:mwstake/mediawiki-extensions-LDAPAuthentication
